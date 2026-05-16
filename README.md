@@ -1,0 +1,2 @@
+# Camera Switching Automation (Presenter vs Audience) with UI Button Control
+This macro automatically keeps the audience camera as the default view during a call, while using PresenterTrack in the background to detect when someone is actively presenting. It improves the meeting experience by switching to the presenter camera only when needed, then safely returning to the audience camera after the presenter is lost, reducing manual camera control and avoiding unnecessary camera switching. It also adds a control page to switch the function on and off
